@@ -1,5 +1,5 @@
 body {
-    background-color: #1a1818;
+    background-color: #1a1818 !important;
     color: white;
     font-family: 'Titillium Web', sans-serif;
 }
@@ -8,4 +8,8 @@ h1, h2, h3, .navbar-brand {
   font-family: 'Rajdhani', sans-serif;
   letter-spacing: 0.5px;
   text-transform: uppercase;
+}
+
+html {
+  background-color: #1a1818 !important;
 }
