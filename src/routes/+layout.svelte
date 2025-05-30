@@ -1,5 +1,5 @@
 <script>
-    import "./styles.css";
+
     import { onMount } from 'svelte';
 
     let { children } = $props();
